@@ -1,4 +1,4 @@
-baseURL: https://frageraum.de # todo: change site url.
+baseURL: https://maltevogl.github.io/website # todo: change site url.
 title: Frageraum # todo: change site name.
 defaultContentLanguage: 'de'
 theme: eternity
