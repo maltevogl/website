@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frühere Veranstaltungen on Frageraum</title>
+    <link>https://frageraum.de/veranstaltungen/</link>
+    <description>Recent content in Frühere Veranstaltungen on Frageraum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frageraum.de/veranstaltungen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arabische Musik aus Andalusien</title>
+      <link>https://frageraum.de/musik1/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://frageraum.de/musik1/</guid>
+      <description>Arabische Musik aus Andalusien Konzert mit Lamis Sires, Wassim Mukdad und Mohammad Khoudir</description>
+    </item>
+    
+    <item>
+      <title>Gabelmann -- Wein-Kunst</title>
+      <link>https://frageraum.de/wein2/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://frageraum.de/wein2/</guid>
+      <description>Weinprobe Weinprobe mit Nathalie und Sebastian Gabelmann (Weingut Gabelmann/Nahe)</description>
+    </item>
+    
+    <item>
+      <title>Rainer Kleinschmidt -- Unternberg</title>
+      <link>https://frageraum.de/kunst1/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://frageraum.de/kunst1/</guid>
+      <description>01.10.2022 - 23.10.2022
+Rainer Kleinschmidt
+Unternberg
+Malerei und Arbeiten auf Papier</description>
+    </item>
+    
+    <item>
+      <title>Gabelmann -- Weingespräche und Probe</title>
+      <link>https://frageraum.de/wein1/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://frageraum.de/wein1/</guid>
+      <description>mit Sebastian Gabelmann und Nathalie Schwartz vom Weingut Gabelmann (Niederhausen/Nahe)</description>
+    </item>
+    
+  </channel>
+</rss>

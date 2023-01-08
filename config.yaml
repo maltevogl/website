@@ -1,0 +1,67 @@
+baseURL: https://frageraum.de # todo: change site url.
+title: Frageraum # todo: change site name.
+defaultContentLanguage: 'de'
+theme: eternity
+
+params:
+  logo: /images/banner.jpg
+  image: /images/banner.jpg
+  subtitle: Kreuzberg, Berlin, Germany # todo: change default subtitle for your website.
+  copyright: Alle Rechte vorbehalten. # todo: set your copyright type.
+  author: Frageraum # todo: set your full name.
+  dontShowSource: True # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        wein: 2
+        kunst: 2
+        veranstaltung: 3
+        default: 3
+      mobile:
+        default: 2
+  socials:
+    # todo: add your social accounts.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:post@frageraum.de'
+      landing: true
+    - icon: 'far fa-address-card fa-lg'
+      url: '/impressum/'
+      landing: false
+  homepage: "/anfang" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  specialPages:
+    - veranstaltungen
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  plausible: '' # todo: set your plausible id.
+  disableRadius: true
+  moveIt: false # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  veranstaltungen: ":filename/"
+
+menu:
+  main:
+    - name: Anfang
+      url: /anfang/
+      weight: 1
+    - name: Das Programm
+      url: /programm/
+      weight: 2
+    - name: Das Verfahren
+      url: /verfahren/
+      weight: 3
+    - name: Kontakte
+      url: /kontakte/
+      weight: 4
+    - name: Veranstaltungen
+      url: /tags/veranstaltung
+      weight: 5

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musik on Frageraum</title>
+    <link>https://frageraum.de/tags/musik/</link>
+    <description>Recent content in musik on Frageraum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frageraum.de/tags/musik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arabische Musik aus Andalusien</title>
+      <link>https://frageraum.de/musik1/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://frageraum.de/musik1/</guid>
+      <description>Arabische Musik aus Andalusien Konzert mit Lamis Sires, Wassim Mukdad und Mohammad Khoudir</description>
+    </item>
+    
+  </channel>
+</rss>
